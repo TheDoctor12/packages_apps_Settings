@@ -123,7 +123,18 @@
                 android:summary="@string/dashboard_switches_summary"
                 android:persistent="false" />
 
+<<<<<<< HEAD
        <ListPreference
+=======
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="dashboard_tileview_double_lines"
+                android:title="@string/dashboard_tileview_double_lines_title"
+                android:summaryOn="@string/dashboard_tileview_double_lines_summary_on"
+                android:summaryOff="@string/dashboard_tileview_double_lines_summary_off"
+                android:defaultValue="false" />
+
+        <ListPreference
+>>>>>>> parent of 0069c04... Dashoard tileview dividers toggle [2/2]
                 android:key="dashboard_columns"
                 android:title="@string/dashboard_columns_title"
                 android:dialogTitle="@string/dashboard_columns_dialog_title"
@@ -132,6 +143,7 @@
                 android:summary="@string/dashboard_columns_summary"
                 android:persistent="false" />
 
+<<<<<<< HEAD
         <com.android.settings.preference.SystemSettingSwitchPreference
                 android:key="dashboard_tileview_double_lines"
                 android:title="@string/dashboard_tileview_double_lines_title"
@@ -169,6 +181,8 @@
                 android:defaultValue="true" />
 
         <!-- Doze // Ambient display -->s
+=======
+>>>>>>> parent of 0069c04... Dashoard tileview dividers toggle [2/2]
         <SwitchPreference
                 android:key="doze"
                 android:title="@string/doze_title"
