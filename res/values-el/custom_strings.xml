@@ -24,7 +24,7 @@
 
     <!--Γρήγορες ρυθμίσεις Wolvesden-->
     <string name="quicksettings_title">Γρήγορες ρυθμίσεις</string>
-    <string name="quicksettings_summary">Διαχείριση των γρήγορων πλακιδίων σας και να επεκταμένης κατάστασης</string>
+    <string name="quicksettings_summary">Διαχείριση των γρήγορων πλακιδίων σας και επεκταμένης κατάστασης</string>
     <string name="expanded_category">Περιοχή μπάρας κατάστασης</string>
     <string name="tile_category">Περιοχή πλακιδίων</string>
     <string name="quick_settings_title">Πλακίδια</string>
