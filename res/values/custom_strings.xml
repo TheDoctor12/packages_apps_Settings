@@ -1154,4 +1154,22 @@
     <string name="lock_screen_show_current">Charging Current</string>
     <string name="lock_screen_show_current_summary">Show Charging Current rate on lock screen</string>
 
+    <string name="status_bar_theme_header_title">CMTE header enabler</string>	
+    <string name="status_bar_theme_header_summary">Enable installed CMTE headers.</string>
+
+    <!-- Tiles animation style  -->
+    <string name="qs_tile_animation_style_title">Tiles animation style</string>
+    <string name="qs_tile_animation_duration_title">Tiles animation duration</string>
+    <string name="qs_tile_animation_style_off">no animation</string>
+    <string name="qs_tile_animation_style_flip">flip</string>
+    <string name="qs_tile_animation_style_rotate">rotate</string>
+    <string name="qs_tile_animation_duration_low">low</string>
+    <string name="qs_tile_animation_duration_default">default</string>
+    <string name="qs_tile_animation_duration_fast">fast</string>
+    <string name="qs_set_animation_style">Animation is set to %1$s</string>
+    <string name="qs_set_animation_duration">Animation duration is set to %1$s</string>
+
+    <string name="equalizer_settings_title">Equalizer</string>
+    <string name="kernel_settings_title">Kernel</string>
+
 </resources>
